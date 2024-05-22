@@ -7,6 +7,6 @@ Example of input:
   4 3 1 2 5
 ```
 Feito por:  
-  Bruno Mascioli
-  Lucas Pereira dos Santos
-  Tiago Catoia  
+Bruno Mascioli
+Lucas Pereira dos Santos
+Tiago Catoia  
